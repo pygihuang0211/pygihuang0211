@@ -1,0 +1,3 @@
+- 👋 Hi, Pei-Tzu Huang 
+- 👀 I’m interested in JAVA, Python and machine learning
+- 🌱 I’m currently learning JAVA and Python
